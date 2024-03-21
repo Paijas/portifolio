@@ -29,7 +29,7 @@ export default function NavBar() {
   ]
 
   return (
-    <div className='md:justify-center flex  items-center w-full h-20 text-white fixed  bg-transparent justify-end '>
+    <div className='md:justify-center flex  items-center w-full h-20 text-white fixed  bg-black justify-end '>
       <div>
       
       </div>

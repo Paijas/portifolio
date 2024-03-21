@@ -1,11 +1,12 @@
 import NavBar from "./components/navbar";
-
+import Home from './components/home';
 export default function App() {
   
 
   return (
-    <div className="w-full h-screen bg-gradient-to-b from-black to-slate-950">
+    <div className="w-full h-screen ">
     <NavBar/>
+    <Home/>
     </div>
     
   )
